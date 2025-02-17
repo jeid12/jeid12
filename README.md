@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/your-banner-image)
+
 
 <h1 align="center">Hi there, I'm Jeand'Amour! 👋</h1>
 
