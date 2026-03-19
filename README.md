@@ -35,6 +35,8 @@
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-34A853?style=for-the-badge&logo=google&logoColor=white)
 
+! [resourse for machine learning] (https://www.wscubetech.com/blog/machine-learning-roadmap/)
+
 ---
 
 ### 📊 GitHub Stats:
